@@ -12,45 +12,55 @@
 
   
 <p  align="center">
-<a  href="#telescope-projeto">🔭 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
-<a  href="#computer-tecnologias"> 💻 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a  href="#-preview">💜 Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a  href="#-getting-started">🤠 Getting Started </a>
+<a  href="#telescope-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
+<a  href="#computer-tecnologias"> Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a  href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a  href="#-getting-started">Getting Started </a>
 </p>
 
  
 
-## :telescope: Projeto
+## Projeto
  
-<b>Ecoleta</b> foi a aplicação desenvolvida durante a Next Level Week, evento realizado pela [Rocketseat](https://rocketseat.com.br/).
+<b>Ecoleta</b> foi a aplicação desenvolvida durante a Next Level Week, evento realizado pela [Rocketseat](https://rocketseat.com.br/). <p>Este projeto é da trilha <b>starter</b></p>
   
 
-## :computer: Tecnologias
+## Tecnologias
+- HTML
+- CSS
+- Javascript
 
-**:satellite: API**
+**API**
 
 - [NodeJs;](https://nodejs.org/en/)
 
+**Template Engine**
+
 - [Nunjucks;](https://medium.com/@andy.neale/nunjucks-a-javascript-template-engine-7731d23eb8cc])
 
-**:computer: Web**
+**Database**
 
-- [React Js;](https://pt-br.reactjs.org/)
-
-**:moyai: SQLite 3**
 - [Sqlite](https://www.sqlite.org/index.html)
 
-## 💜 Preview
+Estamos utilizando as API's de localidade da <b>IBGE</b>:
+ - [UF's](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)
+ - [Munincípios por UF](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)
+ 
+##  Preview
 
 <p  align="center">
 	<img  alt="Preview" title="Topzera"  src=".github/preview.png"  width="100%">
 </p>
 
-## 🤠 Getting Started
+<p  align="center">
+	<img  alt="Preview" title="Topzera"  src=".github/preview2.png"  width="100%">
+</p>
+
+## Getting Started
 
 Você precisa clonar o repositório, e pode fazer isso digitando em seu terminal `$ git clone https://github.com/lucaszarza/Ecoleta.git`.
  
-### :satellite: API
+### API
 
 Logo após clonar o repositório execute o comando ou `npm install`.
 
@@ -64,8 +74,6 @@ Então acesse o navegador com [http://localhost:3000/](http://localhost:3000/)
 
 --- 
 
-<h5 align="center"> 🚀 Ecoleta made by Lucas Zarza</h5>
+<h5 align="center"> Ecoleta made by Lucas Zarza</h5>
 
 ---
-
-Ecoleta  README design made by [Luuck4s](https://github.com/Luuck4s)
